@@ -1,18 +1,5 @@
-# My Project From BRIK
+# My Project From HIGO
 
-you can see my project klik [link](https://brik-test-fe-iaq3qwbymq-uc.a.run.app/) or copy url
-
-```link
-https://brik-test-fe-iaq3qwbymq-uc.a.run.app/
-```
- input this page login
-```json
-{
-    "email" : "admin@gmail.com",
-    "password" : "123456"
-}
-
-```
 
 ## Setup API
 
@@ -30,8 +17,8 @@ npm install
 ### Or You Can Run Dockerfile
 follow command
 ```sh
-- docker build -t brik-vue:0.0.1 .
-- docker run -p 80:80 brik-vue:0.0.1
+- docker build -t higo-vue:0.0.1 .
+- docker run -p 80:80 higo-vue:0.0.1
 - open browser http://127.0.0.1
 ```
 
